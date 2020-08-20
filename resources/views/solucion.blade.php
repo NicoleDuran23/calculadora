@@ -16,8 +16,8 @@
     <div class="container">
       <h1>Resultados</h1>
       
-      <p>primertermino: {{ $primertermino }}</p>
-      <p>segundotermino: {{ $segundotermino }}</p>
+      <p>Primer Termino: {{ $primertermino }}</p>
+      <p>Segundo Termino: {{ $segundotermino }}</p>
 
         <h4>Suma: <span class="text-primary">{{ $suma }}</span> </h4>
         <h4>Resta: <span class="text-primary">{{ $resta }}</span> </h4>
